@@ -21,11 +21,6 @@
 
 export default {
     props: ['weatherData'],
-    data() {
-        return (
-            console.log(this.weatherData)
-        )
-    }
 }
 
 </script>
